@@ -1,5 +1,5 @@
 # SpectralClustering
-An implementation of the spectral clustering algorithm using C and Python made with Michael Garbois.
+An optimized implementation of the spectral clustering algorithm using C and Python made with Michael Garbois. Heavy use of optimized NumPy functions and c code to lower the running time.
 
 To run:
 
