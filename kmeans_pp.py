@@ -1,7 +1,7 @@
 import numpy as np
 import mykmeanssp as ckmeans
 
-# Our impementation of the Kmeans++ initialization for the Kmeans algorithm
+# Our implementation of the Kmeans++ initialization for the Kmeans algorithm
 
 def k_means_pp(T, K, N, d, MAX_ITER):           
     np.random.seed(0)
