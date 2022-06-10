@@ -1,5 +1,5 @@
 # SpectralClustering
-Flat file hierarchy for grading purposes :(
+Flat file hierarchy for grading purposes.
 
 An optimized implementation of the spectral clustering algorithm using C and Python made with Michael Garbois. Heavy use of optimized NumPy functions and c code to lower the running time.
 
